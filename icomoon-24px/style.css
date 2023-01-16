@@ -1,0 +1,91 @@
+@font-face {
+  font-family: 'icomoon-24px';
+  src:  url('fonts/icomoon-24px.eot?5k1xzk');
+  src:  url('fonts/icomoon-24px.eot?5k1xzk#iefix') format('embedded-opentype'),
+    url('fonts/icomoon-24px.woff2?5k1xzk') format('woff2'),
+    url('fonts/icomoon-24px.ttf?5k1xzk') format('truetype'),
+    url('fonts/icomoon-24px.woff?5k1xzk') format('woff'),
+    url('fonts/icomoon-24px.svg?5k1xzk#icomoon-24px') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon-24px' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-add-1Px-24:before {
+  content: "\e901";
+}
+.icon-add-15Px-24:before {
+  content: "\e900";
+}
+.icon-add-2Px-24:before {
+  content: "\e902";
+}
+.icon-export-1Px-24:before {
+  content: "\e903";
+}
+.icon-exports-15Px-24:before {
+  content: "\e904";
+}
+.icon-exports-2Px-24:before {
+  content: "\e905";
+}
+.icon-fiscal_report-1Px-24:before {
+  content: "\e907";
+}
+.icon-fiscal_report-15Px-24:before {
+  content: "\e906";
+}
+.icon-fiscal_report-2Px-24:before {
+  content: "\e908";
+}
+.icon-free-15Px-24:before {
+  content: "\e909";
+}
+.icon-free-1Px-24:before {
+  content: "\e90a";
+}
+.icon-free-2Px-24:before {
+  content: "\e90b";
+}
+.icon-refresh-1Px-24:before {
+  content: "\e90d";
+}
+.icon-refresh-15Px-24:before {
+  content: "\e90c";
+}
+.icon-refresh-2Px-24:before {
+  content: "\e90e";
+}
+.icon-wellness-1Px-24:before {
+  content: "\e910";
+}
+.icon-wellness-15Px-24:before {
+  content: "\e90f";
+}
+.icon-wellness-2Px-24:before {
+  content: "\e911";
+}
+.icon-window-1Px-24:before {
+  content: "\e913";
+}
+.icon-window-15Px-24:before {
+  content: "\e912";
+}
+.icon-window-2Px-24:before {
+  content: "\e914";
+}
